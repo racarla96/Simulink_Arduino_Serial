@@ -1,0 +1,7 @@
+slprj/*
+*.asv
+*.bin
+*.elf
+*.autosave
+*.slxc
+Serial_Driver_Test_ert_rtw/*
